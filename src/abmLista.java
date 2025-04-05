@@ -10,5 +10,5 @@
  */
 public class abmLista {
     int edad = 0;
-    String Nombre;
+    String Nombre = 'Carlos';
 }
