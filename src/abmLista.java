@@ -11,4 +11,21 @@
 public class abmLista {
     int edad = 0;
     String Nombre = "Carlos";
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public String getNombre() {
+        return Nombre;
+    }
+
+    public void setNombre(String Nombre) {
+        this.Nombre = Nombre;
+    }
+    
 }
